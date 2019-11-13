@@ -7,3 +7,7 @@ These notebooks have been adapted to use Tensorflow 2
 The songs used are battle/fight songs from FF series. They include songs from FF1 untill FF8.
 
 It is advised to use these notebooks on Google colab since RNNs in general take some time to process forward and back-propagation.
+
+Those are experiments to investigate how the variation of parameters like the architecture of the network, the activation function, or the optimizer can have an impact on the generated output song.
+
+Each folder contains a different experiment that can be ran separately.
